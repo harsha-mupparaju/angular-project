@@ -1,0 +1,14 @@
+ #main{
+    display: inline;
+}
+#temp1,#temp {
+    color:white;
+} 
+
+#movielist{
+    padding: 50px;
+}
+
+ #movielist:hover img {
+    transform: scale(1.5);
+ }
